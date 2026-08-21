@@ -1,2 +1,2 @@
 # Calculadora
-tarefa da Sprint 1
+Tarefa da Sprint 1
