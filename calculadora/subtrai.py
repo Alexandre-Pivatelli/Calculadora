@@ -1,6 +1,8 @@
 def subtrai (x,y)
-  resultado= x-y 
-return resultado 
+    sub= x-y
+    return sub 
 
-x= float(input('Qual o primeiro numero?')
-y= float(input('Qual o segundo numero?')
+x= float(input('Digite o orimeiro numero:'))
+y= float(input('Digite o segundo numero:'))
+
+print(subtrai(x,y))
